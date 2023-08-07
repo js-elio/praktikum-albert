@@ -17,3 +17,8 @@
     * [Level 13](Welt_1_Lvl_13.md)
     * [Level 14](Welt_1_Lvl_14.md)
     * [Level 15](Welt_1_Lvl_15.md)
+    * [Level 16](Welt_1_Lvl_16.md)
+    * [Level 17](Welt_1_Lvl_17.md)
+    * [Level 18](Welt_1_Lvl_18.md)
+    * [Level 19](Welt_1_Lvl_19.md)
+    * [Level 20](Welt_1_Lvl_20.md)
