@@ -1,10 +1,8 @@
-# Alberts Knowlegdebase
+# Codecombat 
 
 
-> Hello World Lorem Ipsum Dolot Sit Amet.
 
-- Lorem Ipsum Dolot Sit
-- Lorem Ipsum Dolot Sit
-- Lorem Ipsum Dolot Sit
+>by Albert Koch
+
 
 [Get Started](#docsify)
