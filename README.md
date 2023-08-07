@@ -1,3 +1,3 @@
-# Testprojekt
+# *Codecombat*
 
-> Dies ist mein Testprojekt!
+> ***Auf dieser Seite wirst du erfahren was ich durch Codecombat alles gelernt habe.***
