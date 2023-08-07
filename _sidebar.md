@@ -8,3 +8,5 @@
     * [Level 4](Welt_1_Lvl_4.md)
     * [Level 5](Welt_1_Lvl_5.md)
     * [Level 6](Welt_1_Lvl_6.md)
+    * [Level 7](Welt_1_Lvl_7.md)
+    * [Level 8](Welt_1_Lvl_8.md)
