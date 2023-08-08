@@ -3,8 +3,8 @@
 
 
 
->*by Albert Koch*
+>*-Albert Koch*
 
 
-[Get Started](#docsify)
+[Starten](#docsify)
 
