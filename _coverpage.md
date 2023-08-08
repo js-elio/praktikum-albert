@@ -4,7 +4,7 @@
 
 
 
-><span style="color: #808080">*-Albert Koch*
+><span style="color: #0096FF">*-Albert Koch*
 
 
 [Starten](#docsify)
