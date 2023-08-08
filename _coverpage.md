@@ -4,9 +4,9 @@
 
 
 
-><span style="color: #0096FF">*-Albert Koch*
+><span style="color: orange">*-Albert Koch*
 
 
-[Starten](#docsify)
+[Starten](#code⚔%ef%b8%8fcombat)
 
 
