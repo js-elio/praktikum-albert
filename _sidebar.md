@@ -1,6 +1,6 @@
 <!-- docs/_sidebar.md -->
 
-* [Home](#)
+* [Home🏠](/)
 * 𝓦𝓮𝓵𝓽 𝟏 👻
     * [꒒ꑀ꒦ꑀ꒒-1](Welt_1_Lvl_1.md)
     * [꒒ꑀ꒦ꑀ꒒-2](Welt_1_Lvl_2.md)
