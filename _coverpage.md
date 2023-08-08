@@ -9,6 +9,4 @@
 
 [Starten](#docsify)
 
-<body>
-  <img class="bg" src="Codecombat-23.jpg" />
-</body>
+
