@@ -1,4 +1,4 @@
-![Alt text](Codecombat-1.jpg)
+![Alt text](CodeCombat-Logo.png)
 ### ***elio GmbH***
 
 
