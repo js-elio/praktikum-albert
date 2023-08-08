@@ -4,7 +4,7 @@
 
 
 
-><span style="color: orange">*-Albert Koch*
+><span style="color: white">*-Albert Koch*
 
 
 [Starten](#code⚔%ef%b8%8fcombat)
