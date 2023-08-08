@@ -1,4 +1,4 @@
-## ***Level 11:***  <span style="color: green">**Waldfeuertanz***
+## ***Level 11:***  <span style="color: green">***Waldfeuertanz***
 
 ***In diesem Level habe ich gelernt den Feuerbällen auszuweichen.***
 
