@@ -1,7 +1,7 @@
 <!-- docs/_sidebar.md -->
 
 * [Home](/)
-* Welt-1👻
+* <span style="color: red">Welt-1👻
     * [Level-1](Welt_1_Lvl_1.md)
     * [Level-2](Welt_1_Lvl_2.md)
     * [Level-3](Welt_1_Lvl_3.md)
@@ -21,7 +21,7 @@
     * [Level-17](Welt_1_Lvl_17.md)
     * [Level-18](Welt_1_Lvl_18.md)
     * [Level-19](Welt_1_Lvl_19.md)
-* Welt 2🌳
+* <span style="color: lightgreen">Welt 2🌳
     * [Level-1](Welt_2_Lvl_1.md)
     * [Level-2](Welt_2_Lvl_2.md)
     * [Level-3](Welt_2_Lvl_3.md)
@@ -55,7 +55,7 @@
     * [Level-31](Welt_2_Lvl_31.md)
     * [Level-32](Welt_2_Lvl_32.md)
     * [Level-33](Welt_2_Lvl_33.md)
-* Welt 3🌵
+* <span style="color: orange">Welt 3🌵
     * [Level-1](Welt_3_Lvl_1.md)
     * [Level-2](Welt_3_Lvl_2.md)
     * [Level-3](Welt_3_Lvl_3.md)
