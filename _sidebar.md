@@ -27,6 +27,8 @@
     * [Level-3](Welt_2_Lvl_3.md)
     * [Level-4](Welt_2_Lvl_4.md)
     * [Level-5](Welt_2_Lvl_5.md)
-
-
-    
+    * [Level-6](Welt_2_Lvl_6.md)
+    * [Level-7](Welt_2_Lvl_7.md)
+    * [Level-8](Welt_2_Lvl_8.md) 
+    * [Level-9](Welt_2_Lvl_9.md)
+    * [Level-10](Welt_2_Lvl_10.md)
