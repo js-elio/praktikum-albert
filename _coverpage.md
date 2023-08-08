@@ -1,10 +1,10 @@
 ![Alt text](CodeCombat-Logo.png)
-### ***elio GmbH***
+### <span style="color: #0096FF">***elio GmbH***
 
 
 
 
->*-Albert Koch*
+><span style="color: #808080">*-Albert Koch*
 
 
 [Starten](#docsify)
