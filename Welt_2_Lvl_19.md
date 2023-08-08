@@ -1,4 +1,4 @@
-## ***Level 19:***  <span style="color: green">***Blinder Abstand***
+## ***Level 19:***  <span style="color: lightgreen">***Blinder Abstand***
 
 
 

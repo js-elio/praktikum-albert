@@ -1,4 +1,4 @@
-## ***Level 31:***  <span style="color: green">***Signalleiche***
+## ***Level 31:***  <span style="color: lightgreen">***Signalleiche***
 
 
 

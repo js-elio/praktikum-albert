@@ -1,4 +1,4 @@
-## ***Level 27:***  <span style="color: green">***Coinucopia***
+## ***Level 27:***  <span style="color: lightgreen">***Coinucopia***
 
 ***Dieses Level unterscheidet sich von allen anderen, denn man kann währenddessen sich die Spielfigur bewegt, Flaggen plazieren, um der Spielfigur den Weg zu weisen.***
 

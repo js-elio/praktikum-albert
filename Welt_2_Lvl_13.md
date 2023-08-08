@@ -1,4 +1,4 @@
-## ***Level 13:***  <span style="color: green">***Hinterwäder-Gabelung***
+## ***Level 13:***  <span style="color: lightgreen">***Hinterwäder-Gabelung***
 
 ***Mit dem Befehl checkAndAttack kann ich nun Gegner finden und angreifen.***
 

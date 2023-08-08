@@ -1,4 +1,4 @@
-## ***Level 25:***  <span style="color: green">***Logischer Pfad***
+## ***Level 25:***  <span style="color: lightgreen">***Logischer Pfad***
 
 
 

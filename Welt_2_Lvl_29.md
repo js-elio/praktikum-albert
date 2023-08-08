@@ -1,4 +1,4 @@
-## ***Level 29:***  <span style="color: green">***Lass Die Flagge Fallen***
+## ***Level 29:***  <span style="color: lightgreen">***Lass Die Flagge Fallen***
 
 ***Hier musste ich Flaggen plazieren wenn ein Gegner kommt, damit er mit der platzierten Falle stirbt.***
 

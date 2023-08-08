@@ -1,4 +1,4 @@
-## ***Level 6:***  <span style="color: green">***Waldland Hackebeil***
+## ***Level 6:***  <span style="color: lightgreen">***Waldland Hackebeil***
 
 ***Mit der neuen attacke cleave konnte ich nun mehrere  Gegner auf einmal besiegen.***
 

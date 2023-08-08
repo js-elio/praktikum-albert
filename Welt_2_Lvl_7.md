@@ -1,4 +1,4 @@
-## ***Level 7:***  <span style="color: green">***Hinterwaldspatt***
+## ***Level 7:***  <span style="color: lightgreen">***Hinterwaldspatt***
 
 
 

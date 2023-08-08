@@ -1,4 +1,4 @@
-## ***Level 23:***  <span style="color: green">***Gewöhnlicher Tag***
+## ***Level 23:***  <span style="color: lightgreen">***Gewöhnlicher Tag***
 
 
 

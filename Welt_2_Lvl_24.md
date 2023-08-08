@@ -1,4 +1,4 @@
-## ***Level 24:***  <span style="color: green">***Auf Der Durchreise***
+## ***Level 24:***  <span style="color: lightgreen">***Auf Der Durchreise***
 
 
 

@@ -1,4 +1,4 @@
-## ***Level 22:***  <span style="color: green">***Frühlingsdonner***
+## ***Level 22:***  <span style="color: lightgreen">***Frühlingsdonner***
 
 ***Mit Item.value kann ich nun nach blauen Edelsteinen und Silbermünzen suchen und einsammeln, da diese nicht vom Blitz getroffen werden.***
 

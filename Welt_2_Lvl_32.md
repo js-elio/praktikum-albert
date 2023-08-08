@@ -1,4 +1,4 @@
-## ***Level 32:***  <span style="color: green">***Reicher Wildhüter***
+## ***Level 32:***  <span style="color: lightgreen">***Reicher Wildhüter***
 
 
 

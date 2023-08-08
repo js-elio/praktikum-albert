@@ -1,4 +1,4 @@
-## ***Level 2:***  <span style="color: green">***Gewundener Pfad***
+## ***Level 2:***  <span style="color: lightgreen">***Gewundener Pfad***
 
 ***Mit dem neuen Befehl hero.moveXY( x , y ) kann ich mich nun an bestimmten koordinaten bewegen.***
 
