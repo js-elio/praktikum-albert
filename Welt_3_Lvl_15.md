@@ -1,8 +1,8 @@
-## ***Level 16:***  <span style="color: orange">***Hetze Nicht, Sei Still***
+## ***Level 15:***  <span style="color: orange">***Staub***
 
 
 
-![MyImage](![Alt text](<Welt 3 Level 16.png>))
+![MyImage](image.png)
 ```Javascript
 var attacks = 0;
 while (attacks < 10) {
