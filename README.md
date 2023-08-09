@@ -1,5 +1,5 @@
 # <span style="color: orange">*𝘾𝙤𝙙𝙚⚔️𝘾𝙤𝙢𝙗𝙖𝙩*
 
-> *Auf dieser Seite wirst du erfahren was ich durch Code⚔️Combat alles gelernt, wie ich die einzelnen Befehle eingesetzt habe und welche neuen Befehle dazukommen. Außerdem wirst du alle Level(die ,die ich gespielt habe) sehen sowie deren Code und screenshot und entscheiden ob du es auch mal versuchen möchtest Codecombat zu spielen oder nicht. Ich persönlich fand die Erfahrung hat mir spaß gemacht und ich habe viel dazugerlernt.*
+> <span style="color: #B2BEB5"> 𝘼𝙪𝙛 𝙙𝙞𝙚𝙨𝙚𝙧 𝙎𝙚𝙞𝙩𝙚 𝙬𝙞𝙧𝙨𝙩 𝙙𝙪 𝙚𝙧𝙛𝙖𝙝𝙧𝙚𝙣 𝙬𝙖𝙨 𝙞𝙘𝙝 𝙙𝙪𝙧𝙘𝙝 𝘾𝙤𝙙𝙚⚔️𝘾𝙤𝙢𝙗𝙖𝙩 𝙖𝙡𝙡𝙚𝙨 𝙜𝙚𝙡𝙚𝙧𝙣𝙩, 𝙬𝙞𝙚 𝙞𝙘𝙝 𝙙𝙞𝙚 𝙚𝙞𝙣𝙯𝙚𝙡𝙣𝙚𝙣 𝘽𝙚𝙛𝙚𝙝𝙡𝙚 𝙚𝙞𝙣𝙜𝙚𝙨𝙚𝙩𝙯𝙩 𝙝𝙖𝙗𝙚 𝙪𝙣𝙙 𝙬𝙚𝙡𝙘𝙝𝙚 𝙣𝙚𝙪𝙚𝙣 𝘽𝙚𝙛𝙚𝙝𝙡𝙚 𝙙𝙖𝙯𝙪𝙠𝙤𝙢𝙢𝙚𝙣. 𝘼𝙪ß𝙚𝙧𝙙𝙚𝙢 𝙬𝙞𝙧𝙨𝙩 𝙙𝙪 𝙖𝙡𝙡𝙚 𝙇𝙚𝙫𝙚𝙡(𝙙𝙞𝙚 ,𝙙𝙞𝙚 𝙞𝙘𝙝 𝙜𝙚𝙨𝙥𝙞𝙚𝙡𝙩 𝙝𝙖𝙗𝙚) 𝙨𝙚𝙝𝙚𝙣 𝙨𝙤𝙬𝙞𝙚 𝙙𝙚𝙧𝙚𝙣 𝘾𝙤𝙙𝙚 𝙪𝙣𝙙 𝙨𝙘𝙧𝙚𝙚𝙣𝙨𝙝𝙤𝙩 𝙪𝙣𝙙 𝙚𝙣𝙩𝙨𝙘𝙝𝙚𝙞𝙙𝙚𝙣 𝙤𝙗 𝙙𝙪 𝙚𝙨 𝙖𝙪𝙘𝙝 𝙢𝙖𝙡 𝙫𝙚𝙧𝙨𝙪𝙘𝙝𝙚𝙣 𝙢ö𝙘𝙝𝙩𝙚𝙨𝙩 𝘾𝙤𝙙𝙚𝙘𝙤𝙢𝙗𝙖𝙩 𝙯𝙪 𝙨𝙥𝙞𝙚𝙡𝙚𝙣 𝙤𝙙𝙚𝙧 𝙣𝙞𝙘𝙝𝙩. 𝙄𝙘𝙝 𝙥𝙚𝙧𝙨ö𝙣𝙡𝙞𝙘𝙝 𝙛𝙖𝙣𝙙 𝙙𝙞𝙚 𝙀𝙧𝙛𝙖𝙝𝙧𝙪𝙣𝙜 𝙝𝙖𝙩 𝙢𝙞𝙧 𝙨𝙥𝙖ß 𝙜𝙚𝙢𝙖𝙘𝙝𝙩 𝙪𝙣𝙙 𝙞𝙘𝙝 𝙝𝙖𝙗𝙚 𝙫𝙞𝙚𝙡 𝙙𝙖𝙯𝙪𝙜𝙚𝙧𝙡𝙚𝙧𝙣𝙩.
 
 <img width="3000" height= "1000" src=https://progression.co/images/customers/codecombat-header.jpg>
