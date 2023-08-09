@@ -1,4 +1,4 @@
-![Alt text](CodeCombat-Logo.png)
+ ![Alt text](CodeCombat-Logo.png)
 ### <span style="color: #2498FF">***elio GmbH***
 
 
