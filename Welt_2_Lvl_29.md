@@ -1,6 +1,6 @@
 ## ***Level 29:***  <span style="color: lightgreen">***Lass Die Flagge Fallen***
 
-***Hier musste ich Flaggen plazieren wenn ein Gegner kommt, damit er mit der platzierten Falle stirbt.***
+***Hier musste ich Flaggen plazieren wenn ein Gegner kommt, damit mein charackter an dieser Stelle eine Fallee plaziert und der Gegner dran stirbt.***
 
 ![MyImage](<Welt 2 Level 29.png>)
 
