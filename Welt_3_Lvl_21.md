@@ -1,18 +1,13 @@
-## ***Level 22:***  <span style="color: orange">***Goldsammler***
+## ***Level 21:***  <span style="color: orange">***Sandiger Schäfer***
 
 
 
-![MyImage](<Welt 3 Level 22.png>)
+![MyImage](<Welt 3 Level 21.png>)
 ```Javascript
 while (true) {
-    var coins = hero.findItems();
-    var coinIndex = 0;
-    while (coinIndex < coins.length) {
-        var coin = coins[coinIndex];
-        coinIndex += 1;
-        if (coin.value == 3) {
-            hero.moveXY(coin.pos.x, coin.pos.y);
-        }
+    var enemy = hero.findNearestEnemy();
+    if (enemy && enemy.type != "sand-yak") {
+        hero.attack(enemy);
     }
 }
 ```
